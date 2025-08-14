@@ -22,7 +22,7 @@ if num1 %2 ==0:
     print('nummero par')
 else:
     print('numero impar')
-    
+
 print(40*'-','BOLETIM ESCOLAR',40*'-')
 nome_aluno = input('insira o nome do aluno: ')
 nota1 = float(input('digite a sua 1ª nota: '))

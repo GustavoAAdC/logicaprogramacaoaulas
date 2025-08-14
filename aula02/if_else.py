@@ -94,6 +94,3 @@ print(var2_str + 1)
 
 
 
-
-
-
